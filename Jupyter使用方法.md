@@ -298,7 +298,7 @@ df.plot(kind='bar')#画柱状图
 
 可以通过sum函数、min函数来来计算某列或者某行的算数值：
 
-![1562842796192](C:\Users\李瀚哲\AppData\Roaming\Typora\typora-user-images\1562842796192.png)
+![1562842796192](./图片/1562842796192.png)
 
 
 
