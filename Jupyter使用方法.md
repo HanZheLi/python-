@@ -18,7 +18,7 @@ shift+右键
 jupyter notebook
 ```
 
-![1562835081132](C:\Users\李瀚哲\AppData\Roaming\Typora\typora-user-images\1562835081132.png)
+![1562835081132](.\图片\1562835081132.png)
 
 
 
